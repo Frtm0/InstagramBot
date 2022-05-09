@@ -1,4 +1,5 @@
 #InstagramBot#
+
 A simple python script, which automates some visibility functions to trending on instagram.
 
 ** THIS SCRIPT IS UNDER DEVELOPMENT ***
